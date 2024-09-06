@@ -1,5 +1,9 @@
 ## Hi there 👋 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 I'm Darian, and I'm a software engineer who is passionate about creating technology to elevate people and make life easier. 
 I especially enjoy working with all things AI - big power, big responsibilities. My tech stack is therefore mostly python-centered, but I am always happy to expand my knowledge.
 <!--
