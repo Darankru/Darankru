@@ -1,11 +1,16 @@
-## Hi there 👋 
+<div align="center"><h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1></div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+<br>
+
 I'm Darian, and I'm a software engineer who is passionate about creating technology to elevate people and make life easier. 
 I especially enjoy working with all things AI - big power, big responsibilities. My tech stack is therefore mostly python-centered, but I am always happy to expand my knowledge.
+
+Feel free to reach out via [![Linkedin Badge](https://img.shields.io/badge/-darankru-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/darian-krummrich/)
+
 <!--
 **Darankru/Darankru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
